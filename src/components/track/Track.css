@@ -23,11 +23,11 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 72px;
+  height: 10%;
 }
 
 .Track-information h3 {
-  margin-bottom: .22rem;
+  margin-bottom: .12rem;
 }
 
 .Track-information p {
